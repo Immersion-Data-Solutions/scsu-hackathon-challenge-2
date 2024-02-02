@@ -8,7 +8,7 @@
  - [PNG](https://shorthand.com/the-craft/what-is-a-png-file/index.html)
 
 ## Test Data
-This challenge does not have any test data.
+This challenge uses PDF files for testing.
 
 ## Judging Feedback
 *Provided after hackathon judging is completed.*
