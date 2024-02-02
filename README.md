@@ -15,3 +15,9 @@ This challenge does not have any test data.
 
 ## How to Run
 *Teams fill in this section with instructions on how to run the application.*
+
+## Hackathon Checklist
+ - [ ] Committed all prototype code
+ - [ ] Updated README with instructions for running the application
+ - [ ] Created presentation showcasing our work
+ - [ ] Committed the presentation to the repository root folder in PDF format
